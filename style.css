@@ -2,6 +2,7 @@ body{
     margin: 0px;
 }
 #main-section{
+    width:1024px;
     padding: 5%;
 }
 header{
