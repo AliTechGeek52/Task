@@ -3,6 +3,7 @@ body{
 }
 #main-section{
     width:1024px;
+    margin:auto;
     padding: 5%;
 }
 header{
